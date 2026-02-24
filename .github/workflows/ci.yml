@@ -2,7 +2,7 @@ name: QA CI Demo Pipeline
 
 on:
   push:
-    branches:[ main ]
+    branches: [ main ]
   
 
 jobs:
